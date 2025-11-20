@@ -4,5 +4,7 @@ openai
 python-dotenv
 Flask
 flask-cors
+flask-login
 gunicorn
+
 
