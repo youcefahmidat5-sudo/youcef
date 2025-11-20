@@ -6,5 +6,7 @@ Flask
 flask-cors
 flask-login
 gunicorn
+authlib
+
 
 
